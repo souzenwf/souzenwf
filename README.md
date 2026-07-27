@@ -1,4 +1,9 @@
-![💝]()
+<div align="center">
+  <img src="https://i.pinimg.com/originals/11/04/b8/1104b8b64e8325a7a72d73f159518a22.gif" alt="Uzui Tengen" width="450" />
+  <br />
+  <span style="font-size: 30px;">🌸</span>
+</div>
+
 
 <!--
 **souzenwf/souzenwf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
